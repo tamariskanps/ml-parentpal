@@ -1,0 +1,136 @@
+program,kondisi_anak,nilai_1,nilai_2,nilai_3,detail_kegiatan
+ident_angka_1,diam,salah,bantu_benar,bantu_benar,anak belum paham dengan materi yang diajarkan
+ident_angka_1,terkendali,benar,benar,benar,anak sudah paham materi yang diajarkan
+ident_angka_1,terkendali,benar,benar,benar,anak sudah mengikuti apa yang diajarkan
+ident_angka_1,terkendali,benar,benar,benar,sudah bisa mengikuti kegiatan dengan baik
+ident_angka_1,terkendali,benar,benar,benar,mengikuti kegiatan dengan baik
+ident_angka_1,terkendali,benar,benar,benar,bisa memahami dengan baik
+ident_angka_1,terkendali,benar,benar,benar,bisa mengerti kegiatan yang diajarkan
+ident_angka_1,terkendali,benar,benar,benar,anak mengikuti kegiatan dengan baik
+ident_angka_1,terkendali,salah,benar,benar,anak sedikit mengalami kesulitan
+ident_angka_1,terkendali,benar,benar,benar,dikerjakan dengan baik
+ident_angka_1,diam,salah,salah,benar,anak mengalami kesulitan
+ident_angka_1,terkendali,benar,benar,benar,baik
+ident_angka_1,terkendali,salah,benar,benar,anak belum paham dengan materi yang diajarkan
+ident_angka_1,terkendali,benar,benar,benar,lancar
+ident_angka_1,terkendali,benar,benar,benar,anak mengerti dengan baik
+ident_angka_1,terkendali,benar,benar,benar,anak mengerti materi yang diajarkan
+ident_angka_1,terkendali,benar,benar,benar,anak mengerti angka yang diberikan
+ident_angka_1,terkendali,benar,benar,benar,anak paham angka yang diberikan
+ident_angka_1,tantrum,benar,benar,salah_3,anak diberikan bantuan dalam mengidentifikasikan angka
+ident_angka_1,terkendali,benar,benar,benar,paham
+ident_angka_1,terkendali,benar,benar,benar,anak tahu angka yang diberikan
+ident_angka_1,hiperaktif,benar,salah,benar,hari ini melakukan identifikasi angka 1
+ident_angka_1,hiperaktif,benar,benar,benar,anak tahu angka yang diajarkan
+ident_angka_1,diam,benar,benar,benar,anak mengerti angka yang diajarkan
+ident_angka_1,diam,benar,benar,benar,mengerti
+ident_angka_1,diam,salah,benar,benar,menggunakan kartu dengan angka 1 untuk belajar
+ident_angka_1,terkendali,benar,salah,benar,anak belum paham dengan materi yang diajarkan
+ident_angka_1,terkendali,benar,benar,benar,mantap
+ident_angka_1,hiperaktif,salah_3,benar,benar,anak dibantu dalam mengidentifikasikan angka
+ident_angka_1,hiperaktif,benar,salah,benar,mengajarkan anak mengidentifikasikan kartu dengan angka 1
+ident_angka_1,hiperaktif,benar,benar,benar,anak melakukan identifikasi angka 1 dengan benar
+ident_angka_1,terkendali,benar,benar,benar,menggunakan kartu dengan angka 1 untuk belajar
+ident_angka_1,terkendali,benar,benar,benar,anak melakukan identifikasi angka 1 dengan benar
+ident_angka_1,hiperaktif,salah,salah,salah,anak sulit untuk mengikuti materi karena sedang hiperaktif
+ident_angka_1,terkendali,benar,benar,benar,anak melakukan identifikasi angka 1 dengan benar
+ident_angka_1,tantrum,salah,salah,benar,anak sulit mengikuti materi karena tidak bisa konsentrasi
+ident_angka_1,diam,benar,benar,benar,anak melakukan identifikasi angka 1 dengan benar
+ident_angka_1,diam,salah,benar,benar,diem karena bingung 
+ident_angka_1,diam,benar,benar,benar,kondisi anak cenderung diam tetapi bisa mengikuti
+ident_angka_1,diam,benar,salah,benar,"diam sebelum sesi belajar, setelah diajak dan dipancing mainan dapat mengikuti perintah"
+ident_angka_1,diam,benar,salah,salah,sudah dapat mengerti perintah atau soal 
+ident_angka_1,hiperaktif,benar,benar,benar,menggunakan kartu dengan angka 1 untuk belajar
+ident_angka_1,tantrum,benar,salah,salah,awalnya anak tantrum tetapi dilatih untuk menenangkan diri
+ident_angka_1,tantrum,benar,salah,salah,anak sulit mengikuti materi karena tidak bisa konsentrasi
+ident_angka_1,tantrum,salah,benar,benar,diperintah untuk duduk supaya dapat mengontrol emosinya
+ident_angka_1,terkendali,benar,benar,benar,anak dapat menjawab dengan benar
+ident_angka_1,terkendali,benar,benar,benar,"bagus, mengikuti perintah"
+ident_angka_1,terkendali,benar,benar,benar,nurut dengan pengasuh dan sudah ada kontak mata
+ident_angka_1,terkendali,benar,benar,benar,menunjuk angka sesuai perintah
+ident_angka_1,terkendali,benar,benar,benar,"duduk, dapat menjawab, mengikuti aturan"
+ident_angka_1,hiperaktif,salah,benar,benar,melempar dan tidak mau duduk karena ingin bermain 
+ident_angka_1,tantrum,benar,benar,benar,ingin diperhatikan lebih atau mencari perhatian supaya digendong
+ident_angka_1,tantrum,benar,benar,salah,"tidak mau nurut perintah, melempar benda"
+ident_angka_1,tantrum,salah,benar,salah,lari-lari
+ident_angka_1,diam,benar,benar,benar,anak sudah paham materi yang diajarkan
+ident_angka_1,diam,benar,salah,benar,anak belajar dengan cukup baik tetapi agak susah
+ident_angka_1,diam,benar,benar,benar,anak sudah paham materi yang diajarkan
+ident_angka_1,diam,benar,benar,salah,anak diajak bermain terlebih dahulu lalu diberikan materi
+ident_angka_1,terkendali,benar,benar,benar,diberi mainan dengan syarat duduk dengan tenang
+ident_angka_1,terkendali,benar,benar,benar,langsung diberikan materi dan dapat menjawab dengan baik
+ident_angka_1,tantrum,salah,salah,salah,mendiamkan anak terlebih dahulu lalu memberikan materi
+ident_angka_1,tantrum,benar,benar,benar,menenangkan anak terlebih dahulu
+ident_angka_1,tantrum,salah,salah,benar,anak sulit mengikuti materi karena tidak bisa konsentrasi
+ident_angka_1,tantrum,benar,benar,benar,membiarkan dan mengawasi anak hingga tenang 
+ident_angka_1,tantrum,salah,salah,benar,"menangis, ketika sudah capek akan tenang dan ikut belajar"
+ident_angka_1,diam,benar,benar,salah,anak diajak bermain terlebih dahulu lalu diberikan materi
+ident_angka_1,diam,benar,salah,benar,dipancing dengan mainan
+ident_angka_1,terkendali,benar,benar,,langsung diberikan materi dan dapat menjawab dengan baik
+ident_angka_1,terkendali,benar,benar,,anak sudah paham materi yang diajarkan
+ident_angka_1,terkendali,benar,benar,,anak sudah mengikuti apa yang diajarkan
+ident_angka_1,terkendali,benar,benar,,sudah mampu berpartisipasi dalam aktivitas dengan lancar
+ident_angka_1,terkendali,benar,benar,,menjalani kegiatan dengan baik dan mengidentifikasi dengan benar
+ident_angka_1,terkendali,benar,benar,,mampu menjalankan aktivitas yang diberikan
+ident_angka_1,diam,salah,salah,,anak tidak bisa menjawab dengan benar
+ident_angka_1,diam,salah,salah,,anak tidak bisa menjawab dengan benar
+ident_angka_1,hiperaktif,salah,benar,,"lari-lari, menjawab dengan asal-asalaan"
+ident_angka_1,hiperaktif,salah,benar,,teriak-teriak karena sedang halusinasi
+ident_angka_1,hiperaktif,salah,benar,,tidak bisa diam karena ingin bermain
+ident_angka_2,terkendali,benar,benar,benar,anak melakukan identifikasi angka 2 dengan benar
+ident_angka_2,diam,benar,benar,benar,"mampu menjalankan aktivitas yang diberikan, tetapi harus diberikan semangat"
+ident_angka_2,diam,benar,benar,benar,anak melakukan identifikasi angka 2 dengan benar
+ident_angka_2,terkendali,benar,benar,benar,mengenal sosial dan kontak mata
+ident_angka_2,terkendali,benar,benar,benar,sudah menambahkan program belajar dengan indentifikasi angka 2
+ident_angka_2,terkendali,benar,benar,benar,dapat menunjuk angka dengan benar
+ident_angka_2,terkendali,benar,benar,benar,anak itu berpartisipasi dalam kegiatan dengan baik
+ident_angka_2,tantrum,benar,benar,benar,anak didiamkan terlebih dahulu hingga tenang
+ident_angka_2,tantrum,benar,salah_3,salah,anak dibantu dalam mengidentifikasikan angka
+ident_angka_2,hiperaktif,benar,benar,salah,anak berlari-lari
+ident_angka_2,hiperaktif,benar,benar,salah,anak tertawa 
+ident_angka_2,diam,benar,salah_3,salah,anak dibantu dalam mengidentifikasikan angka
+ident_angka_2,tantrum,benar,benar,benar,dapat menenangkan diri setelah disuruh duduk
+ident_angka_2,diam,benar,benar,salah_3,anak dibantu dalam mengidentifikasikan angka
+ident_angka_2,diam,benar,benar,salah,"mampu menjalankan aktivitas yang diberikan, tetapi harus diberikan semangat"
+ident_angka_2,diam,benar,benar,salah,anak dapat mengikuti dengan baik tetapi sedikit dibantu
+ident_angka_2,hiperaktif,benar,benar,benar,susah diatur tetapi bisa menjawab dengan benar
+ident_angka_2,hiperaktif,benar,benar,benar,mencoba untuk mendiamkan 
+ident_angka_2,hiperaktif,benar,benar,benar,memberikan kegiatan lain terlebih dahulu yang disukai agar energinya tersalurkan
+ident_angka_2,hiperaktif,benar,benar,benar,memberikan kegiatan lain terlebih dahulu yang disukai agar energinya tersalurkan
+ident_angka_2,terkendali,benar,benar,benar,materi yang diberikan dapat dengan baik dilakukan
+ident_angka_2,diam,benar,benar,salah,anak dapat mengikuti dengan baik tetapi sedikit dibantu
+ident_angka_2,terkendali,benar,benar,benar,anak itu berpartisipasi dalam kegiatan dengan baik
+ident_angka_2,terkendali,benar,benar,benar,"mengikuti perintah pengasuh, duduk "
+ident_angka_2,terkendali,benar,benar,benar,"sudah dapat mengidentifikasi angka, bermain tetapi mau belajar"
+ident_angka_2,diam,benar,salah,salah_3,anak dibantu dalam mengidentifikasikan angka
+ident_angka_2,diam,salah,salah,benar,pada awalnya diam setelah diberi atau dipancing mainan dapat menunjukan dengan benar
+ident_angka_2,hiperaktif,benar,benar,benar,mencoba untuk mendiamkan 
+ident_angka_2,diam,benar,salah,benar,memberikan materi dengan menggunakan mainan yang disukai
+ident_angka_2,hiperaktif,benar,salah,benar,"tertawa terus menerus, susah diatur"
+ident_angka_2,terkendali,benar,benar,benar,"hebat, bisa menjawab"
+ident_angka_2,terkendali,benar,benar,benar,materi yang diberikan dapat dengan baik dilakukan
+ident_angka_2,hiperaktif,salah,benar,salah,lari lari ingin bermain
+ident_angka_2,hiperaktif,benar,benar,benar,"tidak mau duduk atau diam, hanya ingin bermain"
+ident_angka_2,hiperaktif,benar,benar,benar,"naik meja, loncat loncat"
+ident_angka_2,terkendali,benar,benar,benar,anak dapat menjawab kartu yang diberikan dengan benar
+ident_angka_2,hiperaktif,salah,salah,benar,susah diatur tetapi bisa menjawab dengan benar
+ident_angka_2,tantrum,salah,salah,benar,ketawa dan menjawab dengan asal asalan
+ident_angka_2,diam,benar,benar,salah_3,anak harus dibantu dalam mengerjakan kegiatan
+ident_angka_2,tantrum,benar,benar,salah,"loncat loncat, tidak mau duduk "
+ident_angka_2,tantrum,salah,benar,benar,menangis
+ident_angka_2,tantrum,salah,benar,benar,anak didiamkan terlebih dahulu hingga tenang
+ident_angka_2,diam,salah,salah,bantu_benar,anak harus dibantu dalam mengerjakan kegiatan
+ident_angka_2,terkendali,benar,benar,,anak dapat menjawab kartu yang diberikan dengan benar
+ident_angka_2,terkendali,benar,benar,,menjalani aktivitas dengan baik dan dapat mengidentifikasikan angka
+ident_angka_2,hiperaktif,salah,benar,,cukup sulit untuk dikendalikan
+ident_angka_2,tantrum,salah,salah,bantu_benar,anak harus dibantu dalam melakukan kegiatan karena dari awal sudah tantrum
+ident_angka_2,terkendali,benar,benar,,menjalani aktivitas dengan baik dan dapat mengidentifikasikan angka
+ident_angka_2,diam,salah,salah,bantu_benar,anak harus dibantu dalam melakukan kegiatan karena dari awal hanya diam saja
+ident_angka_2,tantrum,benar,salah,,menenangkan anak terlebih dahulu
+ident_angka_2,tantrum,salah,benar,,mendiamkan anak terlebih dahulu lalu memberikan materi
+ident_angka_2,tantrum,salah,benar,,terus mencoba walaupun salah
+ident_angka_2,terkendali,benar,benar,,sudah mampu berpartisipasi dalam aktivitas dengan lancar
+ident_angka_2,diam,salah,benar,,anak diajak bermain terlebih dahulu
+ident_angka_2,terkendali,benar,benar,benar,ingin bermain dan diselingi dengan belajar
+ident_angka_2,terkendali,benar,benar,benar,diberi mainan dengan syarat duduk dengan tenang
+ident_angka_2,terkendali,benar,benar,benar,anak melakukan identifikasi angka 2 dengan benar
